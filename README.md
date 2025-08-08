@@ -40,6 +40,4 @@ This project uses **Python** and the following libraries:
 - `scikit-learn` *(optional)* – statistical analysis or predictive modeling
 - `jupyter` – running notebooks interactively
 
----
 
-## Project Structure
